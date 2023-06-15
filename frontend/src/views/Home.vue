@@ -7,7 +7,7 @@
         <div id="top"></div>
         <div id="bottom"></div>
         <b-navbar-item id="fontnavbar" class="title is-2" style="color: darkviolet">
-          BilgeKaramanLittleGram15July2023
+          BilgeKaramanLittleGram15June2023
         </b-navbar-item>
       </template>
     </b-navbar>
